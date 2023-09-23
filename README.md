@@ -1,6 +1,8 @@
 # discord-token-reactor
 Discord token reactor made in python
 
+  ![image info](assets/image1.png)
+
 
 # Guide
 
@@ -8,4 +10,4 @@ Discord token reactor made in python
 - You can probably find help to do this on youtube or in https://discord.gg/proofs
 
 
-  ![image info](/image.png)
+  ![image info](assets/image.png)
